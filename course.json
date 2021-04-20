@@ -1,0 +1,211 @@
+{
+	"document":{
+		"header" : {
+			"document" : "6478945829873449242444",
+			"logo" : "https://cdn.someplace.image.png",
+			"title" : "Resguardo de Matrícula 2020/2021",
+			"program": "Técnico Superior en Marketing y Publicidad (W25)",
+			"student_label" : "Estudiante",
+			"student_value" : "Pedro José Ramos López - 324234534532",
+			"time_label" : "Hora",
+			"time_value" : "21.04.2020 18:31",
+			"level_label" : "Curso",
+			"level_value" : "2",
+			"payment_label" : "Forma de pago",
+			"payment_value" : "MENSUAL domiciliado",
+			"invoicing_label" : "Periodo de facturación",
+			"invoicing_lname" : "01/02/2020 - 01/06/2020 5 meses"
+		},		
+		"body": {
+			"list":[
+				{
+					"category" : "Asignaturas confirmadas (8)",
+					"credits" : "31 ECTS",
+					"items" : [
+						{
+							"dates" : "01.07.2020 - 31.10.2020",
+							"course_name" : "Lesiones Deportivas: Prevención y Recuperación Funcional (234212)",
+							"detail" : "4 ECTS | ENG | OB | M13",
+							"comment_label" : null,
+							"comment_value" : null,
+							"schedule" : [
+								{
+									"instructor_name" : "Dr. Emiliano Pérez",
+									"date" : "Lun 16:00-18:00",
+									"room" : "Aula 102"
+								},
+								{
+									"instructor_name" : "Sebastian Logu",
+									"date" : "Jue 10:00-11:00",
+									"room" : "Aula 102"
+								}
+							]
+						},
+						{
+							"dates" : "01.07.2020 - 31.10.2020",
+							"course_name" : "Fisiología Humana (234212)",
+							"detail" : "4 ECTS | ENG | OB | M13",
+							"comment_label" : null,
+							"comment_value" : null,
+							"schedule" : [
+								{
+									"instructor_name" : "Dr. Emiliano Pérez",
+									"date" : "Lun 16:00-18:00",
+									"room" : "Aula 102"
+								}
+							]
+						},
+						{
+							"dates" : "01.07.2020 - 31.10.2020",
+							"course_name" : "Biomecánica de la Actividad Física y del Deporte (234212)",
+							"detail" : "4 ECTS | ENG | OB | M13",
+							"comment_label" : null,
+							"comment_value" : null,
+							"schedule" : [
+								{
+									"instructor_name" : "Dr. Emiliano Pérez",
+									"date" : "Lun 16:00-18:00",
+									"room" : "Aula 102"
+								}
+							]
+						},
+						{
+							"dates" : "01.07.2020 - 31.10.2020",
+							"course_name" : "Proyecto Ecuador (234212)",
+							"detail" : "4 ECTS | ENG | OB | M13",
+							"comment_label" : null,
+							"comment_value" : null,
+							"schedule" : [
+								{
+									"instructor_name" : "Dr. Emiliano Pérez",
+									"date" : "Lun 16:00-18:00",
+									"room" : "Aula 102"
+								}
+							]
+						},
+						{
+							"dates" : "01.07.2020 - 31.10.2020",
+							"course_name" : "Deportes de primavera (234212)",
+							"detail" : "4 ECTS | ENG | OB | M13",
+							"comment_label" : "Observación",
+							"comment_value" : "Inglés Nivel B1",
+							"schedule" : [
+								{
+									"instructor_name" : "Dr. Emiliano Pérez",
+									"date" : "Lun 16:00-18:00",
+									"room" : "Aula 102"
+								}
+							]
+						},
+						{
+							"dates" : "01.07.2020 - 31.10.2020",
+							"course_name" : "Lesiones Deportivas: Prevención y Recuperación Funcional (234212)",
+							"detail" : "4 ECTS | ENG | Tipo | Grupo",
+							"comment_label" : null,
+							"comment_value" : null,
+							"schedule" : [
+								{
+									"instructor_name" : "Dr. Emiliano Pérez",
+									"date" : "Lun 16:00-18:00",
+									"room" : "Aula 102, Aula 234"
+								},
+								{
+									"instructor_name" : "Dr. Emiliano Pérez",
+									"date" : "Mar 10:00-12:00",
+									"room" : "Aula 102"
+								},
+								{
+									"instructor_name" : "Sebastian Logu",
+									"date" : "Jue 10:00-11:00",
+									"room" : "Aula 102"
+								}
+							]
+						}
+					]
+				},
+				{
+					"category" : "Solicitados (2)",
+					"credits" : null,
+					"items" : [
+						{
+							"dates" : "01.07.2020 - 31.10.2020",
+							"course_name" : "Lesiones Deportivas: Prevención y Recuperación Funcional (234212)",
+							"detail" : "4 ECTS | ENG | Tipo | Grupo",
+							"comment_label" : null,
+							"comment_value" : null,
+							"schedule" : [
+								{
+									"instructor_name" : "Dr. Emiliano Pérez",
+									"date" : "Lun 16:00-18:00",
+									"room" : null
+								},
+								{
+									"instructor_name" : "Sebastian Logu",
+									"date" : "Jue 10:00-11:00",
+									"room" : null
+								}
+							]
+						},
+						{
+							"dates" : "01.07.2020 - 31.10.2020",
+							"course_name" : "Lesiones Deportivas: Prevención y Recuperación Funcional (234212)",
+							"detail" : "4 ECTS | ENG | Tipo | Grupo",
+							"comment_label" : null,
+							"comment_value" : null,
+							"schedule" : [
+								{
+									"instructor_name" : "Dr. Emiliano Pérez",
+									"date" : "Lun 16:00-18:00",
+									"room" : null
+								},
+								{
+									"instructor_name" : "Sebastian Logu",
+									"date" : "Jue 10:00-11:00",
+									"room" : null
+								}
+							]
+						}
+					]
+				},
+				{
+					"category" : "Convalidaciones (3)",
+					"credits" : null,
+					"items" : [
+						{
+							"dates" : null,
+							"course_name" : "Lesiones Deportivas: Prevención y Recuperación Funcional (234212)",
+							"detail" : null,
+							"comment_label" : null,
+							"comment_value" : null,
+							"schedule" : null
+						},
+						{
+							"dates" : null,
+							"course_name" : "Deportes de primavera (234212)",
+							"detail" : null,
+							"comment_label" : null,
+							"comment_value" : null,
+							"schedule" : null
+						},
+						{
+							"dates" : null,
+							"course_name" : "Fisiología Humana (234212)",
+							"detail" : null,
+							"comment_label" : null,
+							"comment_value" : null,
+							"schedule" : null
+						}
+					]
+				}
+			]
+		},
+		"tail" : {
+			"raw_text" : "1) Esta matrícula es provisional y está condicionada a la comprobación de las condiciones de acceso a los estudios universitarios y demás normativa vigente. \n 2) La existencia de un solapamiento horario permitido por la Normativa General de la Universidad para las Enseñanzas Oficiales d e Grado no exime al estudiante de cumplir con los requisitos de asistencia establecidos en el Reglamento de Evaluación de las Titulaciones Oficiales de Grado de la Universidad.\n3) Asignaturas con nivel de idioma recomendado. Para aquellas asignaturas con nivel de idioma recomendado es responsabilidad del estudiante asegurarse de que posee el nivel indicado al matricular la asignatura para seguir la misma con aprovechamiento.\n4) Asignaturas con requisito de idioma obligatorio. En aquellas asignaturas donde se exija un nivel B2 de español, es responsabilidad del estudiante asegurarse de que posee dicho nivel al matricular la asignatura. La Universidad se reserva el derecho a desmatricular al estudiante de esta asignatura si se comprobase que no posee el nivel exigido para cursarla.\n5) La Universidad se reserva el derecho a modificar el docente, horario y/o aula asignada a cada asignatura. De dichas circunsta ncias será debidamente informado el estudiante, sin que sea exigible a la Universidad responsabilidad alguna."
+		},
+		"footer" : {
+				"page_label" : "Página",
+				"page_de" : "de",
+				"text_pagination" : "Universidad Europea"
+		}
+	}
+}

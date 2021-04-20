@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+    <meta charset='UTF-8'>
+    <html>
+    <body onload='subst()'>
+    <footer id='footer'>
+    <p class='footer_style'>Página <span class='page'></span> de <span class='topage'></span> </p>
+    <p class='footer_style'>Universidad Europea</p>
+    </footer>
+    </body>
+    </html>
+    <style>
+
+    #footer {
+      padding-top: 65px;
+      padding-bottom: 9mm;
+      bottom: 0;
+      width: 100%;
+      height: 50px;
+      font-size: 6px;
+    }
+
+    .footer_style{
+      font-family: Calibri, sans-serif;
+      text-align: center;
+      font-size: 10px;
+    }
+    </style>
+    <script>
+    function subst() {
+            var vars = {};
+            var query_strings_from_url = document.location.search.substring(1).split('&');
+            for (var query_string in query_strings_from_url) {
+                if (query_strings_from_url.hasOwnProperty(query_string)) {
+                    var temp_var = query_strings_from_url[query_string].split('=', 2);
+                    vars[temp_var[0]] = decodeURI(temp_var[1]);
+                }
+            }
+            var css_selector_classes = ['page', 'topage'];
+            for (var css_class in css_selector_classes) {
+                if (css_selector_classes.hasOwnProperty(css_class)) {
+                    var element = document.getElementsByClassName(css_selector_classes[css_class]);
+                    for (var j = 0; j < element.length; ++j) {
+                        element[j].textContent = vars[css_selector_classes[css_class]];
+                    }
+                }
+            }
+        }
+    </script>
+    
